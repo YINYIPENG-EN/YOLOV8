@@ -1,0 +1,11 @@
+path: F:/YOLOV8/cfg/datasets/target
+train: F:/YOLOV8/cfg/datasets/target/train/images
+val: F:/YOLOV8/cfg/datasets/target/val/images
+test: #
+
+# number of classes
+nc: 1
+
+# class names
+names:
+  0: target
